@@ -6,6 +6,9 @@ We welcome to join us on the journey to cryptocurrency and explore the benefits 
 ## Website
 - [https://ctbf.io](https://ctbf.io)
 
+## Smart Contract
+- [https://bscscan.com/address/0xdf06190e696dece8c9ba4aebe7621835f5614e0f](https://bscscan.com/address/0xdf06190e696dece8c9ba4aebe7621835f5614e0f)
+
 ## Social Channels
 - [Instagram](https://www.instagram.com/cbtfinance/?utm_medium=github)
 - [Twitter](https://twitter.com/cbtfinance/)
