@@ -12,4 +12,4 @@ We welcome you to join us on the journey as we explore the benefits that DEFI br
 ## Social Channels
 - [Instagram](https://www.instagram.com/cbtfinance/?utm_medium=github)
 - [Twitter](https://twitter.com/cbtfinance/)
-- [Telegram](https://t.me/)
+- [Telegram](https://t.me/cbtfinance)
